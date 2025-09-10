@@ -21,7 +21,8 @@
   </tr>
   <tr>
     <td>Tailwind</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" />
+</td>
   </tr>
   <tr>
     <td>Webpack</td>
@@ -41,7 +42,8 @@
   </tr>
   <tr>
     <td>Zustand</td>
-    <td><img src="https://raw.githubusercontent.com/pmndrs/zustand/main/logo.png" width="50" height="50" /></td>
+    <td><img src="https://raw.githubusercontent.com/pmndrs/zustand/main/logo.png" width="50" height="50" />
+</td>
   </tr>
   <tr>
     <td>Next.js</td>
