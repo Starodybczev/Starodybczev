@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td>Tailwind</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" />
+    <td><img src="./images/tailwind.png" width="50" height="50" />
 </td>
   </tr>
   <tr>
@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td>Zustand</td>
-    <td><img src="https://raw.githubusercontent.com/pmndrs/zustand/main/logo.png" width="50" height="50" />
+    <td><img src="./images/zustand.png" width="50" height="50" />
 </td>
   </tr>
   <tr>
