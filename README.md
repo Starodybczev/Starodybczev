@@ -21,8 +21,7 @@
   </tr>
   <tr>
     <td>Tailwind</td>
-    <td><img src="./images/tailwind.png" width="50" height="50" />
-</td>
+    <td><img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" width="80" /></td>
   </tr>
   <tr>
     <td>Webpack</td>
@@ -42,8 +41,7 @@
   </tr>
   <tr>
     <td>Zustand</td>
-    <td><img src="./images/zustand.png" width="50" height="50" />
-</td>
+    <td><img src="https://img.shields.io/badge/Zustand-00BFFF?style=for-the-badge&logo=zustand&logoColor=white" width="80" /></td>
   </tr>
   <tr>
     <td>Next.js</td>
