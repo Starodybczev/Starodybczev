@@ -1,20 +1,7 @@
-# Привет! 👋  
-Я Wictor, frontend разработчик.
+# Hi! 👋  
+I'm Wictor, a frontend developer.
 
 <table>
-  <tr>
-    <th>HTML</th>
-    <th>CSS</th>
-    <th>SCSS</th>
-    <th>Tailwind</th>
-    <th>Webpack</th>
-    <th>JavaScript</th>
-    <th>React</th>
-    <th>Redux Toolkit</th>
-    <th>Zustand</th>
-    <th>Next.js</th>
-    <th>GraphQL</th>
-  </tr>
   <tr>
     <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" /></th>
     <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" /></th>
