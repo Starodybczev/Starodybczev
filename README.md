@@ -33,7 +33,7 @@ I'm Wictor, a frontend developer.
     </td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="icon" width="65" height="65" /> <br>ToolKit</td>
     <th><img src="https://img.shields.io/badge/Zustand-00BFFF?style=for-the-badge&logo=zustand&logoColor=white" alt="icon" width="65" height="65" /> <br>Zustand</th>
-    <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="icon" width="65" height="65" /> <br>Next</th>
+    <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="icon" width="80" height="80" /> <br>Next</th>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
       <br>GraphQL
