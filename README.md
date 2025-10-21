@@ -8,7 +8,7 @@ I'm Wictor, a frontend developer.
       <br>HTML5
     </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+        <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="css" />
       <br>CSS
     </td>
       <td align="center" width="96">
