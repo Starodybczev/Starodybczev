@@ -7,7 +7,7 @@ I'm Wictor, a frontend developer.
         <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
       <br>HTML5
     </td>
-      <td align="center" width="96">
+      <td align="center" width="105">
         <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="css" />
       <br>CSS
     </td>
