@@ -10,7 +10,7 @@ I'm Wictor, a frontend developer.
 
 > “Honk-honk.  
 > Code good. Sleep bad. Coffee none.  
-> I am **Герцог Витя Какиш**, the Frontend Goose.”  
+> I am **Duke Wictor poop**, the Frontend Goose.”  
 
 
 
