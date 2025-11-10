@@ -2,11 +2,15 @@
 I'm Wictor, a frontend developer.
 
 
+##  About Me 
+
 <p align="center">
-  <img src="https://i.gifer.com/origin/f6/f68740c9bc60626586df868e5efa830b_w200.gif" width="200" alt="Toilet spinning 360°" />
-  <br>
-  <b>About Me 🚽</b>
+  <img src="https://media.tenor.com/ko1Q38UXJvMAAAAi/goose-bonk.gif" width="180" alt="Bonk goose" />
 </p>
+
+> “Honk-honk.  
+> Code good. Sleep bad. Coffee none.  
+> I am **Герцог Витя Какиш**, the Frontend Goose.”  
 
 
 
