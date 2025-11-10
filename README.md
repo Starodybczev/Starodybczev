@@ -5,7 +5,7 @@ I'm Wictor, a frontend developer.
 ##  About Me 
 
 <p align="center">
-  <img src="https://media.tenor.com/ko1Q38UXJvMAAAAi/goose-bonk.gif" width="180" alt="Bonk goose" />
+  <img src="https://i.gifer.com/origin/f6/f68740c9bc60626586df868e5efa830b_w200.gif" width="400" />
 </p>
 
 > “Honk-honk.  
