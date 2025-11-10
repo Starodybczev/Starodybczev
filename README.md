@@ -1,8 +1,7 @@
 # Hi! 👋  
 I'm Wictor, a frontend developer.
 
-
-<h2 align="center"> About Me</h2>
+## About Me
 
 <p align="center">
   <img src="https://i.gifer.com/origin/f6/f68740c9bc60626586df868e5efa830b_w200.gif" width="400" />
