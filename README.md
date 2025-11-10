@@ -1,5 +1,6 @@
 # Hi! 👋  
 I'm Wictor, a frontend developer.
+<img src="https://media.giphy.com/media/твой_гиф.gif" width="300" />
 
 <table>
   <tr>
