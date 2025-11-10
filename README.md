@@ -2,7 +2,11 @@
 I'm Wictor, a frontend developer.
 
 
-<lottie-player src="https://assets7.lottiefiles.com/packages/lf20_your_animation.json" background="transparent" speed="1" loop autoplay></lottie-player>
+<p align="center">
+  <img src="https://i.gifer.com/origin/f6/f68740c9bc60626586df868e5efa830b_w200.gif" width="200" alt="Toilet spinning 360°" />
+  <br>
+  <b>About Me 🚽</b>
+</p>
 
 
 
