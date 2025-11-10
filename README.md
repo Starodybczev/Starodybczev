@@ -1,6 +1,7 @@
 # Hi! 👋  
 I'm Wictor, a frontend developer.
-<img src="https://media.giphy.com/media/твой_гиф.gif" width="300" />
+<iframe width="400" height="400" src="https://sketchfab.com/models/твоя_модель/embed" frameborder="0"></iframe>
+
 
 <table>
   <tr>
