@@ -1,6 +1,9 @@
 # Hi! 👋  
 I'm Wictor, a frontend developer.
-<iframe width="400" height="400" src="https://sketchfab.com/models/твоя_модель/embed" frameborder="0"></iframe>
+
+
+<lottie-player src="https://assets7.lottiefiles.com/packages/lf20_your_animation.json" background="transparent" speed="1" loop autoplay></lottie-player>
+
 
 
 <table>
