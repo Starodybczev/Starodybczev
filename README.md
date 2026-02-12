@@ -24,7 +24,7 @@ I'm Wictor, a frontend developer.
       <br>CSS
     </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" width="65" height="65" alt="Sass" />
+        <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="65" height="65" alt="Sass" />
       <br>Sass
     </td>
       <td align="center" width="96">
@@ -44,10 +44,10 @@ I'm Wictor, a frontend developer.
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux icon" class="tech-icon" /><br>
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux icon" class="tech-icon" /><br>
         Redux ToolKit
     </td>
-    <th align="center" width="96"><img src="https://img.shields.io/badge/Zustand-00BFFF?style=for-the-badge&logo=zustand&logoColor=white" alt="icon" width="65" height="65" /> <br>Zustand</th>
+    <th align="center" width="96"><img src="https://skillicons.dev/icons?i=kotlin" alt="icon" width="65" height="65" /> <br>kotlin</th>
     <th align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="icon" width="120" height="120" /> <br>Next</th>
   </tr>
 </table>
