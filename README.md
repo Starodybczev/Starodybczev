@@ -45,6 +45,10 @@ I'm Wictor, a frontend developer.
       </a>
       <br>Python
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
+    </td>
   </tr>
   <tr>
       <td align="center" width="96">
@@ -75,6 +79,10 @@ I'm Wictor, a frontend developer.
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="48" height="48" />
       <br>MySQL
   </td>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="graphql" />
+      <br>GraphQL
+    </td>
   </tr>
 </table>
 
